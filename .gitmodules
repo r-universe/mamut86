@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "diffusion"]
+	path = diffusion
+	url = https://github.com/mamut86/diffusion
+	shallow = true
+	registered = true
